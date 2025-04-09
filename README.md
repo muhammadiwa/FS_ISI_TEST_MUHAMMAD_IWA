@@ -2,6 +2,14 @@
 
 A fullstack todo list application built with React, Python (FastAPI), PostgreSQL, and TailwindCSS.
 
+## Application Screenshots
+
+### Adding a New Task
+![Adding a New Task](/frontend/public/images/add-screenshot.png)
+
+### Updating a Task
+![Updating a Task](/frontend/public/images/update-screenshot.png)
+
 ## Features
 
 - Create new tasks
@@ -45,6 +53,7 @@ A fullstack todo list application built with React, Python (FastAPI), PostgreSQL
 task-management/
 ├── frontend/                # React frontend
 │   ├── public/              # Static files
+│   │   └── images/          # Image assets
 │   ├── src/                 # Source code
 │   ├── Dockerfile           # Frontend Docker configuration
 │   └── package.json         # Frontend dependencies
