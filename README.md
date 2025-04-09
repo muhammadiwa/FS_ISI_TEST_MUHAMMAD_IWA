@@ -7,11 +7,11 @@ A fullstack todo list application built with React, Python (FastAPI), PostgreSQL
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
     <h3>Adding a New Task</h3>
-    <img src="/frontend/public/images/add-screenshot.png" alt="Adding a New Task" style="width: 100%;">
+    <img src="/frontend/public/images/add-screenshot.png" alt="Adding a New Task" style="width: 50%;">
   </div>
   <div style="flex: 1;">
     <h3>Updating a Task</h3>
-    <img src="/frontend/public/images/update-screenshot.png" alt="Updating a Task" style="width: 100%;">
+    <img src="/frontend/public/images/update-screenshot.png" alt="Updating a Task" style="width: 50%;">
   </div>
 </div>
 
