@@ -4,11 +4,16 @@ A fullstack todo list application built with React, Python (FastAPI), PostgreSQL
 
 ## Application Screenshots
 
-### Adding a New Task
-![Adding a New Task](/frontend/public/images/add-screenshot.png)
-
-### Updating a Task
-![Updating a Task](/frontend/public/images/update-screenshot.png)
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h3>Adding a New Task</h3>
+    <img src="/frontend/public/images/add-screenshot.png" alt="Adding a New Task" style="width: 100%;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Updating a Task</h3>
+    <img src="/frontend/public/images/update-screenshot.png" alt="Updating a Task" style="width: 100%;">
+  </div>
+</div>
 
 ## Features
 
